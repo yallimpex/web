@@ -2,6 +2,7 @@
   "name": "yall-impex-site",
   "version": "1.0.0",
   "description": "Single-page site for Yall Impex - aggregator importing products from India",
+  "homepage": "https://vishnu.github.io/web",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
